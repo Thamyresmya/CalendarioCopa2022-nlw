@@ -21,6 +21,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="calendario da copa" src=".github/Capa.png" width="100%">
 </p>
 
+<br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -29,13 +31,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
+<br>
+
 ## 💻 Projeto
 
-O Calendario é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O Calendario pessoal de jogos, apresenta os horários dos jogos da copa 2022.
+
+<br>
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+<br>
 
 ## :memo: Licença
 
