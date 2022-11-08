@@ -1,6 +1,6 @@
 // alteração
-function TemaAzul() {
-  document.body.classList.toggle("blue")
+function TemaGreen() {
+  document.body.classList.toggle("green")
 }
 // alteração
 

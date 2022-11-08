@@ -5,17 +5,17 @@
 }
 
 :root {
-  --card-title-border-color: #047c3f;
-  --card-color-primary: #047c3f;
-  --card-bg-color: #1a1f1b;
-  --bg: url(./assets/bg-green.svg);
-}
-
-body.blue {
   --card-title-border-color: #338af3;
   --card-color-primary: #338af3;
   --card-bg-color: #202024;
   --bg: url(./assets/bg-blue.svg);
+}
+
+body.green {
+  --card-title-border-color: #047c3f;
+  --card-color-primary: #047c3f;
+  --card-bg-color: #1a1f1b;
+  --bg: url(./assets/bg-green.svg);  
 }
 
 body.yellow {
