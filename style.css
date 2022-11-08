@@ -5,10 +5,10 @@
 }
 
 :root {
-  --card-title-border-color: #746615;
-  --card-color-primary: #f7dd43;
-  --card-bg-color: #1d1c19;
-  --bg: url(./assets/bg-yellow.svg);
+  --card-title-border-color: #047c3f;
+  --card-color-primary: #047c3f;
+  --card-bg-color: #1a1f1b;
+  --bg: url(./assets/bg-green.svg);
 }
 
 body.blue {
@@ -18,11 +18,22 @@ body.blue {
   --bg: url(./assets/bg-blue.svg);
 }
 
-body.green {
-  --card-title-border-color: #047c3f;
-  --card-color-primary: #047c3f;
-  --card-bg-color: #1a1f1b;
-  --bg: url(./assets/bg-green.svg);
+body.yellow {
+  --card-title-border-color: #746615;
+  --card-color-primary: #f7dd43;
+  --card-bg-color: #1d1c19;
+  --bg: url(./assets/bg-yellow.svg);
+}
+
+.tema button {
+  align-self: flex;
+  display: flex;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 16px;
+  background: #ecf4ff;
+  border-radius: 100px;
+  border: 2px solid #0e1d2f;
 }
 
 ul {

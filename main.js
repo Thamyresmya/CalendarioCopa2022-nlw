@@ -1,3 +1,9 @@
+// alteração
+function TemaAzul() {
+  document.body.classList.toggle("blue")
+}
+// alteração
+
 function createGame(player1, hour, player2) {
   return `  
 <li>
@@ -49,7 +55,7 @@ document.querySelector("#cards").innerHTML =
     "24/11",
     "quinta",
     createGame("switzerland", "07:00", "cameroon") +
-      createGame("uruguay", "10:00", "") +
+      createGame("uruguay", "10:00", "south korea") +
       createGame("portugal", "13:00", "ghana") +
       createGame("brazil", "16:00", "serbia")
-  ) 
+  )
